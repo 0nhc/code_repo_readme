@@ -22,10 +22,10 @@ Our team number is 17112B, you can check our ranks on VEX official website.</br>
 
 [https://www.robotevents.com/teams/VRC/17112B](https://www.robotevents.com/teams/VRC/17112B)</br>
 
-<center class="half">
+<p float="left">
     <img src="imgs/1" width="300" />
     <img src="imgs/2.jpg" width="300" />
-</center>
+</p>
 
 Then after participating in two international competitions, we have made our robot very robust and finally got the first prize(Rank 2) in our Province.    
 
