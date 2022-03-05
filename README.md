@@ -29,9 +29,7 @@ Our team number is 17112B, you can check our ranks on VEX official website.</br>
 
 Then after participating in two international competitions, we have made our robot very robust and finally got the first prize(Rank 2) in our Province.    
 
-<p float="center">
-    <img src="imgs/4" width="250" />
-</p>
+<img src="imgs/4" width="250" />
 
 ## College
 
@@ -47,15 +45,13 @@ Our idea was to integrate the data of the IMU into a trajectory of the end point
 
 However this method is not so accurate because the data integrated from IMU has a lot of noise. But it was the first time I learned knowledge about IMU sensor, quaternion, neural networks and coordinate transform.</br>
 
-<p float="center">
-    <img src="imgs/5.jpg" width="465" />
-</p>
+<img src="imgs/5.jpg" width="465" />
 
 ### Quadruped Robot
 
 Then I became a sophomore. Boston Dynamics' videos was really impressing, so I want to make my own robot dog. Getting started with open sourced projects, I bought Stanford's open source robot dog Pupper. After that I learned about Kinematics of robot dogs and tried to design my own quadruped robot controller. Meanwhile I got familiar with Solidworks and designed my own robot dog and exported URDF files.</br>
 
-<p float="center">
+<p float="left">
     <img src="imgs/6.jpg" width="300" height="200" />
     <img src="imgs/7.jpg" width="300" height="200"/>
     <img src="imgs/8.png" width="300" height="200"/>
@@ -75,9 +71,7 @@ Finally we began our campaign on Kickstarter and were finally crowd-funded $500,
 
 [Mini Pupper: Open-Source,ROS Robot Dog Kit](https://www.kickstarter.com/projects/336477435/mini-pupper-open-sourceros-robot-dog-kit)</br>
 
-<p float="left">
-    <img src="imgs/9.avif" width="700" />
-</p>
+<img src="imgs/9.avif" width="700" />
 
 The official code repository is maintained by me. You can see all the detailed information in it.</br>
 
@@ -89,9 +83,7 @@ After this, we cooperated with AWS Cloud. I successfully put our simulation plat
 
 This was actually started from my project for National College Student Innovation and Entrepreneurship Competition. So at last I won the first place in college.</br>
 
-<p float="left">
-    <img src="imgs/11.jpg" width="700" />
-</p>
+<img src="imgs/11.jpg" width="700" />
 
 ### RoboCup@Home China
 
@@ -103,9 +95,7 @@ Finally we got the second prize, rank 6. All the code has been uploaded on githu
 
 [iRobotBHK Robotics Group](https://github.com/BHU-SIE-Robotics-Group)</br>
 
-<p float="left">
     <img src="imgs/10.jpg" width="350" />
-</p>
 
 ### Internship in Institute for AI Industry Research(AIR), Tsinghua University
 
