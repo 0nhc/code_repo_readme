@@ -137,7 +137,7 @@ I firstly achieved 3D SLAM and Navigation in simulation based on hdl_graph_slam 
 
 ![navigation](imgs/champ_3d_navigation.gif)
 
-Then I tried applying those algorithms on the real robot. Still developing.</br>
+Then I tried applying those algorithms on the real robot. Still developing. (Click on this picture to watch the video)</br>
 
 [![Watch the video](https://img.youtube.com/vi/tzanLA-_9u4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tzanLA-_9u4)
 
