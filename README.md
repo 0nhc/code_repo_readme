@@ -80,7 +80,7 @@ Finally we began our campaign on Kickstarter and were finally crowd-funded $500,
 [Mini Pupper: Open-Source,ROS Robot Dog Kit](https://www.kickstarter.com/projects/336477435/mini-pupper-open-sourceros-robot-dog-kit)</br>
 
 <p align="center">
-    <img src="imgs/9.avif" width="700" />
+    <img src="imgs/9.jpg" width="700" />
 </p>
 
 The official code repository is maintained by me. You can see all the detailed information in it.</br>
