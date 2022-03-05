@@ -109,7 +109,7 @@ Now the conpetition has begun and the official code has released. You can see de
 
 [AIR-DISCOVER/ICRA-RM-Sim2Real](https://github.com/AIR-DISCOVER/ICRA-RM-Sim2Real)
 
-<iframe height=480 width=360 src="imgs/sim2real.mp4">
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](imgs/sim2real.mp4)
 
 #### Xiaomi Cyberdog
 
