@@ -29,7 +29,7 @@ Our team number is 17112B, you can check our ranks on VEX official website.</br>
 
 Then after participating in two international competitions, we have made our robot very robust and finally got the first prize(Rank 2) in our Province.    
 
-<p float="left">
+<p float="center">
     <img src="imgs/4" width="250" />
 </p>
 
@@ -47,7 +47,7 @@ Our idea was to integrate the data of the IMU into a trajectory of the end point
 
 However this method is not so accurate because the data integrated from IMU has a lot of noise. But it was the first time I learned knowledge about IMU sensor, quaternion, neural networks and coordinate transform.</br>
 
-<p float="left">
+<p float="center">
     <img src="imgs/5.jpg" width="465" />
 </p>
 
@@ -55,7 +55,7 @@ However this method is not so accurate because the data integrated from IMU has 
 
 Then I became a sophomore. Boston Dynamics' videos was really impressing, so I want to make my own robot dog. Getting started with open sourced projects, I bought Stanford's open source robot dog Pupper. After that I learned about Kinematics of robot dogs and tried to design my own quadruped robot controller. Meanwhile I got familiar with Solidworks and designed my own robot dog and exported URDF files.</br>
 
-<p float="left">
+<p float="center">
     <img src="imgs/6.jpg" width="300" height="200" />
     <img src="imgs/7.jpg" width="300" height="200"/>
     <img src="imgs/8.png" width="300" height="200"/>
