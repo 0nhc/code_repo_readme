@@ -23,13 +23,13 @@ Our team number is 17112B, you can check our ranks on VEX official website.</br>
 [https://www.robotevents.com/teams/VRC/17112B](https://www.robotevents.com/teams/VRC/17112B)</br>
 
 <center class="half">
-    <img src="imgs/1" width="350" />
-    <img src="imgs/2.jpg" width="350" />
+    <img src="imgs/1" width="300" />
+    <img src="imgs/2.jpg" width="300" />
 </center>
 
 Then after participating in two international competitions, we have made our robot very robust and finally got the first prize(Rank 2) in our Province.    
 
-<center class="half">
+<center class="center">
     <img src="imgs/4" width="250" />
 </center>
 
@@ -47,7 +47,7 @@ Our idea was to integrate the data of the IMU into a trajectory of the end point
 
 However this method is not so accurate because the data integrated from IMU has a lot of noise. But it was the first time I learned knowledge about IMU sensor, quaternion, neural networks and coordinate transform.</br>
 
-<center class="half">
+<center class="center">
     <img src="imgs/5.jpg" width="465" />
 </center>
 
