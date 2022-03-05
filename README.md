@@ -22,14 +22,17 @@ Our team number is 17112B, you can check our ranks on VEX official website.</br>
 
 [https://www.robotevents.com/teams/VRC/17112B](https://www.robotevents.com/teams/VRC/17112B)</br>
 
-<p float="left">
+<p align="center">
     <img src="imgs/1" width="350" />
     <img src="imgs/2.jpg" width="350" />
 </p>
 
+
 Then after participating in two international competitions, we have made our robot very robust and finally got the first prize(Rank 2) in our Province.    
 
-<img src="imgs/4" width="250" />
+<p align="center">
+    <img src="imgs/4" width="250" />
+</p>
 
 ## College
 
@@ -41,21 +44,26 @@ Although I was a fresher, some senior students began to invite me to do some pro
 
 Our idea was to integrate the data of the IMU into a trajectory of the end point of the pen and then using PCA to fit a plane where the trajectory lies. After doing this we can get a 2D trajectory. Then we resized this 2D trajectory into standard sized image and then put into Neural Networks trained by MNIST to recognize which number the user is writing.</br>
 
-![3](imgs/3.png)
+<p align="center">
+    <img src="imgs/3.png" width="450" />
+</p>
 
 However this method is not so accurate because the data integrated from IMU has a lot of noise. But it was the first time I learned knowledge about IMU sensor, quaternion, neural networks and coordinate transform.</br>
 
-<img src="imgs/5.jpg" width="465" />
+<p align="center">
+    <img src="imgs/5.jpg" width="450" />
+</p>
 
 ### Quadruped Robot
 
 Then I became a sophomore. Boston Dynamics' videos was really impressing, so I want to make my own robot dog. Getting started with open sourced projects, I bought Stanford's open source robot dog Pupper. After that I learned about Kinematics of robot dogs and tried to design my own quadruped robot controller. Meanwhile I got familiar with Solidworks and designed my own robot dog and exported URDF files.</br>
 
-<p float="left">
+<p align="center">
     <img src="imgs/6.jpg" width="300" height="200" />
     <img src="imgs/7.jpg" width="300" height="200"/>
     <img src="imgs/8.png" width="300" height="200"/>
 </p>
+
 
 Unlike servo motors, the servo for plane models does not have any feedback and can only be controlled with angle. Thus I can only apply position control algorithms(kinematics) on it.</br>
 
@@ -71,7 +79,9 @@ Finally we began our campaign on Kickstarter and were finally crowd-funded $500,
 
 [Mini Pupper: Open-Source,ROS Robot Dog Kit](https://www.kickstarter.com/projects/336477435/mini-pupper-open-sourceros-robot-dog-kit)</br>
 
-<img src="imgs/9.avif" width="700" />
+<p align="center">
+    <img src="imgs/9.avif" width="700" />
+</p>
 
 The official code repository is maintained by me. You can see all the detailed information in it.</br>
 
@@ -83,7 +93,9 @@ After this, we cooperated with AWS Cloud. I successfully put our simulation plat
 
 This was actually started from my project for National College Student Innovation and Entrepreneurship Competition. So at last I won the first place in college.</br>
 
-<img src="imgs/11.jpg" width="700" />
+<p align="center">
+    <img src="imgs/11.jpg" width="700" />
+</p>
 
 ### RoboCup@Home China
 
@@ -95,7 +107,9 @@ Finally we got the second prize, rank 6. All the code has been uploaded on githu
 
 [iRobotBHK Robotics Group](https://github.com/BHU-SIE-Robotics-Group)</br>
 
-    <img src="imgs/10.jpg" width="350" />
+<p align="center">
+    <img src="imgs/10.jpg" width="450" />
+</p>
 
 ### Internship in Institute for AI Industry Research(AIR), Tsinghua University
 
@@ -108,8 +122,6 @@ This competition requires participants to develop all the code in MetaAI's simul
 Now the conpetition has begun and the official code has released. You can see detailed information here.</br>
 
 [AIR-DISCOVER/ICRA-RM-Sim2Real](https://github.com/AIR-DISCOVER/ICRA-RM-Sim2Real)
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](imgs/sim2real.mp4)
 
 #### Xiaomi Cyberdog
 
@@ -127,7 +139,8 @@ I firstly achieved 3D SLAM and Navigation in simulation based on hdl_graph_slam 
 
 Then I tried applying those algorithms on the real robot. Still developing.</br>
 
-<iframe height=480 width=360 src="imgs/slam.mp4">
+[![Watch the video](https://img.youtube.com/vi/tzanLA-_9u4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tzanLA-_9u4)
+
 
 You can see my document on my github repository.</br>
 
