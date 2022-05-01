@@ -1,6 +1,6 @@
-# Introduction to my Robotics Experiences
+# Introduction to my Robotic Experiences
 
-This page is about my robotics experience in details. I've been an enthusiast in robotics since I was a kid. I also have bilibili and Twitter account with my robotics related daily life.</br>
+This page is about my robotic experiences in details. I've been an enthusiast in robotics since I was a kid. I also have bilibili and Twitter account with my robotics related daily life.</br>
 
 [bilibili@0nhc](https://space.bilibili.com/435723766?from=search&seid=8150707523279557385&spm_id_from=333.337.0.0)</br>
 
