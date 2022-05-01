@@ -120,28 +120,7 @@ Here I mainly helped with the construction of ICRA2022 RoboMaster University Sim
 This competition requires participants to develop all the code in MetaAI's simulation platform Habitat and then the official will apply their code in a real robot with the same scene. I helped to test and construct the official sample code of navigation using RTAB-Map with D435i and Cartographer with 2D Lidar. I also fixed some small bugs of the link between Habitat and ROS.</br>
 
 Now the conpetition has begun and the official code has released. You can see detailed information here.</br>
+Also, I just got the fourth place in round 1.</br>
 
 [AIR-DISCOVER/ICRA-RM-Sim2Real](https://github.com/AIR-DISCOVER/ICRA-RM-Sim2Real)
-
-#### Xiaomi Cyberdog
-
-I'm also doing some projects related to quadruped robot. As a birthday gift, my parents bought me Xiaomi's quadruped robot Cyberdog. Now I'm developing my Cyberdog in AIR.</br>
-
-I firstly achieved 3D SLAM and Navigation in simulation based on hdl_graph_slam and move_base.</br>
-
-* SLAM
-
-![slam](imgs/champ_3d_slam.gif)
-
-* Navigation(Localization based on 3D Lidar)
-
-![navigation](imgs/champ_3d_navigation.gif)
-
-Then I tried applying those algorithms on the real robot. Still developing. (Click on this picture to watch the video)</br>
-
-[![Watch the video](https://img.youtube.com/vi/tzanLA-_9u4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tzanLA-_9u4)
-
-
-You can see my document on my github repository.</br>
-
-[0nhc/cyberdog_0nhc](https://github.com/0nhc/cyberdog_0nhc)
+[RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)
