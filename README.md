@@ -2,23 +2,7 @@
 
 I have tested the following commands on a new empty RPI image with only Ubuntu20.04, ROS Noetic installed. After executing these commands to build the repository you mentioned([reMARS-MiniPupper](https://github.com/mangdangroboticsclub/reMARS-MiniPupper)), the robot can dance itself without any problems. And I have checked and found there's actually no problem with **velocity_smoother**. So, I think there's some problems related to your robot's hardware. I suggest you to try these commands to build this repository one more time, and if the robot still can't move, you should check whether all the servos could move.
 
-```flow
-start=>start: Check
-op1=>operation: Try to build reMARS-MiniPupper again
-cd1=>condition: If the robot can dance/move?
-op2=>operation: Test whether servos can move
-op3=>operation: The problem is about building this repo
-cd2=>condition: If the servo can dance/move?
-op4=>operation: The problem is about hardware interface
-op5=>operation: The problem is about the dancing node
-
-start->op1->cd1
-cd1(yes)->op3
-cd1(no)->op2->cd2
-
-cd2(yes)->op5
-cd2(no)->op4
-```
+![12](imgs/12.png)
 
 
 
